@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-kr-pbn-bp-020/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https:///</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-kr-pbn-bp-020/posts/field_note-001-1c8eue4.html</loc>
-    <lastmod>2026-06-09</lastmod>
+    <loc>https:///blog.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-kr-pbn-bp-020/posts/guide-002-1c8eue4.html</loc>
-    <lastmod>2026-06-09</lastmod>
+    <loc>https:///about.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-kr-pbn-bp-020/posts/interview-002-1142v56.html</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-kr-pbn-bp-020/posts/myth-001-1142v56.html</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarakinhceo-gif.github.io/bp-kr-pbn-bp-020/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https:///feed.xml</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>
