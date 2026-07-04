@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kr-pbn-bp-020.node-link.shop/sitemap.xml
+Sitemap: https://seongnam-dev-blog.node-link.shop/sitemap.xml
